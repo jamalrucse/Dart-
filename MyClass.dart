@@ -1,9 +1,9 @@
 class MyClass{
-  MyClass(int x){
+  /*MyClass(int x){
     print(x);
     print("I am a constructor");
 
-  }
+  }*/
 
 
   var myName = 'Jamal Hossain';
@@ -23,5 +23,4 @@ class MyClass{
   myFunc(){
     this.addTwo();
   }
-
 }
